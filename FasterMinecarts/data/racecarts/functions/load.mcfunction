@@ -1,0 +1,2 @@
+scoreboard objectives add FasterMinecartsXSpeed dummy
+scoreboard objectives add FasterMinecartsZSpeed dummy

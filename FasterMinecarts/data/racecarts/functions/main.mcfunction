@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:minecart] at @s run function racecarts:startcart
